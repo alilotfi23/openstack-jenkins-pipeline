@@ -1,4 +1,4 @@
-````markdown
+
 # Jenkins-Powered OpenStack Deployment with Kolla Ansible
 
 This project automates the deployment of OpenStack services using [Kolla Ansible](https://docs.openstack.org/kolla-ansible/latest/) via a Jenkins pipeline. It sets up a local Python environment, installs required tools, configures infrastructure, and deploys OpenStack on target servers.
